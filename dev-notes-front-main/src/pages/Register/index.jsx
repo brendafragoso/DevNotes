@@ -129,7 +129,7 @@ export function Register() {
           <SignInLink>
             Já possui conta?{' '}
             <Link style={{ color: 'black' }} to="/main">
-              Log In
+              Login
             </Link>
           </SignInLink>
           <img src={Logo} alt="logo" />

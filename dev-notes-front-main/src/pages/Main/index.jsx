@@ -187,7 +187,7 @@ export const Main = () => {
                 <TaskSection>
                     <SubSection>
                         <GreetingText>
-                            {`Olá `+ userData.name}
+                            Olá {userData.name}
                         </GreetingText>
                         <NewTask
                             onClick={() => newTaskEdit(blankTask, -1)}

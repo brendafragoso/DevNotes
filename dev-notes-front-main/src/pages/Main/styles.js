@@ -117,7 +117,8 @@ export const NewTask = styled.button`
    height: 48px;
    border-radius: 5px;
    background-color: #7E1389;
-   margin-top: 50px;
+   margin-top: 30px;
+   margin-right: 30px;
    border: none;
    color: #FFFFFF;
    font-size: 14px;
